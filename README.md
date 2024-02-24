@@ -18,7 +18,7 @@
     <img align="center" alt="Html5-icon" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img align="center" alt="Sass-icon" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
     <img align="center" alt="Sass-icon" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-    <img align="center" alt="Git-Icon" src="https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117">
+
 
   </div>
     
@@ -28,8 +28,8 @@
     <img align="center" alt="Vue-icon" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
 
   <h2 align="center">Tools</h2>
-    <img align="center" alt="VSCode-icon" src="https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117">
-    <img align="center" alt="GitHub-icon" src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117">
+    <img align="center" alt="Git-Icon" src="https://img.shields.io/badge/gulp-C0504C?style=for-the-badge&logo=gulp&logoColor=white">
+    <img align="center" alt="Git-Icon" src="https://img.shields.io/badge/webpack-2E3A41?style=for-the-badge&logo=webpack&logoColor=9DD5F5">
     <img align="center" alt="Figma-icon" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
     <img align="center" alt="Sketch-icon" src="https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black">
     <img align="center" alt="Canva-icon" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
@@ -46,6 +46,8 @@
 </div>
 
 ##
+
+![Snake animation](https://github.com/GiovanniBraga/GiovanniBraga/blob/output/github-contribution-grid-snake.svg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
