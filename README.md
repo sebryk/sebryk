@@ -18,7 +18,7 @@
     <img align="center" alt="Tailwind-icon" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
   </div>
     
-  <h2 align="center">Studying in this moment:</h2>
+  <h2 align="center">Currently studying</h2>
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin-bottom: 50px;">
     <img align="center" alt="Typescript-icon" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
     <img align="center" alt="Vue-icon" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
