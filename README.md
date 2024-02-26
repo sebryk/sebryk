@@ -10,29 +10,26 @@
   <h2 align="center">My Skills</h2>
   <div style="display: inline-block;"><br>
     <p>
-    <img align="center" alt="React-icon" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-    <img align="center" alt="Redux-icon" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
-    <img align="center" alt="Javascript-icon" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img align="center" alt="Html5-icon" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+      <img align="center" alt="React-icon" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+      <img align="center" alt="Redux-icon" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
+      <img align="center" alt="Javascript-icon" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+      <img align="center" alt="Html5-icon" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     </p>
-    <img align="center" alt="Css-icon" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img align="center" alt="Sass-icon" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-    <img align="center" alt="Tailwind-icon" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+    <p>
+      <img align="center" alt="Css-icon" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+      <img align="center" alt="Sass-icon" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+      <img align="center" alt="Tailwind-icon" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+    </p>
+    <p>
+      <img align="center" alt="Webpack-Icon" src="https://img.shields.io/badge/webpack-2E3A41?style=for-the-badge&logo=webpack&logoColor=9DD5F5">
+      <img align="center" alt="Gulp-Icon" src="https://img.shields.io/badge/gulp-C0504C?style=for-the-badge&logo=gulp&logoColor=white">
+    </p>
   </div>
   <br>
   <h2 align="center">Currently studying</h2>
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin-bottom: 50px;">
     <img align="center" alt="Typescript-icon" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
     <img align="center" alt="Vue-icon" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  </div>
-  <br>
-  <h2 align="center">Tools</h2>
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin-bottom: 50px;">
-    <img align="center" alt="Webpack-Icon" src="https://img.shields.io/badge/webpack-2E3A41?style=for-the-badge&logo=webpack&logoColor=9DD5F5">
-    <img align="center" alt="Gulp-Icon" src="https://img.shields.io/badge/gulp-C0504C?style=for-the-badge&logo=gulp&logoColor=white">
-    <img align="center" alt="Figma-icon" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-    <img align="center" alt="Sketch-icon" src="https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black">
-    <img align="center" alt="Canva-icon" src="https://img.shields.io/badge/Visual_Studio-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
   </div>
   <br>
 <h2 align="center">Contats</h2>
