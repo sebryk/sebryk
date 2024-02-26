@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FCBE5A&height=120&section=header"/>
+<b>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FD613F&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+Name+Is+Sergei!;And+I'm+A+Frontend+Developer.;)](https://git.io/typing-svg)
 <br>
@@ -7,7 +7,7 @@
 
 
 <div  align="center" > 
-  <h2 align="center">My Skills</h2>
+  <h2 align="center" style="color: yellow;">My Skills</h2>
   <div style="display: inline-block;"><br>
     <p>
       <img align="center" alt="React-icon" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
