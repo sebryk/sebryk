@@ -17,13 +17,13 @@
     <img align="center" alt="Sass-icon" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
     <img align="center" alt="Tailwind-icon" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
   </div>
-    
+  <br>
   <h2 align="center">Currently studying</h2>
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin-bottom: 50px;">
     <img align="center" alt="Typescript-icon" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
     <img align="center" alt="Vue-icon" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   </div>
-
+  <br>
   <h2 align="center">Tools</h2>
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin-bottom: 50px;">
     <img align="center" alt="Webpack-Icon" src="https://img.shields.io/badge/webpack-2E3A41?style=for-the-badge&logo=webpack&logoColor=9DD5F5">
@@ -32,8 +32,8 @@
     <img align="center" alt="Sketch-icon" src="https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black">
     <img align="center" alt="Canva-icon" src="https://img.shields.io/badge/Visual_Studio-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
   </div>
+  <br>
 <h2 align="center">Contats</h2>
-
  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin-bottom: 50px;"> 
 <a href="https://www.linkedin.com/in/sergei-brykalov-63a521234/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn-icon"></a>
 <a href="https://www.instagram.com/giovanni_braga1" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn-icon"></a>
