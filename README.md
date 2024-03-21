@@ -28,6 +28,7 @@
   <h2 align="center">Currently studying</h2>
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin-bottom: 50px;">
     <img align="center" alt="Typescript-icon" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+     <img align="center" alt="NextJS-icon" src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white">
     <img align="center" alt="Vue-icon" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
   </div>
   <br>
