@@ -1,7 +1,6 @@
 
 
 <br>
-<br>
 
 <h2 align="center"> Hi! 👋  I'm Sergei Brykalov.</h3>
 
