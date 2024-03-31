@@ -7,6 +7,8 @@
 
 <p align="center">I'm Frontend Developer And I'm Passionate About Building Beautiful And Functional User Interfaces. </p>
 
+<br>
+
 
 <div  align="center" > 
   <h3 align="center">My Skills</h3>
