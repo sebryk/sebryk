@@ -2,7 +2,7 @@
 <br>
 <br>
 
-<h1 align="center"><font color="red"> Hello! My Name Is Sergei Brykalov. <br>I Am A Frontend Developer </font></h1>
+<h1 align="center"><font color="red"> Hi! My Name Is Sergei. <br>I Am Frontend Developer </font></h1>
 
 <br>
 
