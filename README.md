@@ -3,7 +3,7 @@
 <br>
 <br>
 
-<h1 align="center"> Hi! 👋 My Name Is Sergei. <br><br> I Am Frontend Developer. </h1>
+<h1 align="center"> Hi! 👋 My Name Is Sergei. </h1>
 <p</p>
 
 <br>
