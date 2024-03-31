@@ -3,15 +3,13 @@
 <br>
 <br>
 
-<h1 align="center"> Hi! 👋 My Name Is Sergei. </h1>
-<p</p>
+<h3 align="center"> Hi! 👋  I'm Sergei Brykalov.</h3>
 
-<br>
 
 
 <div  align="center" > 
-  <h2 align="center"><span style="color: yellow;">My Skills</span></h2>
-  <div style="display: inline-block;"><br>
+  <h3 align="center">My Skills</h3>
+  <div style="display: inline-block;">
     <p>
       <img align="center" alt="React-icon" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
       <img align="center" alt="NextJS-icon" src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white">
@@ -27,13 +25,13 @@
       <img align="center" alt="Gulp-Icon" src="https://img.shields.io/badge/gulp-C0504C?style=for-the-badge&logo=gulp&logoColor=white">
   </div>
   <br>
-  <h2 align="center">Currently studying</h2>
+  <h3 align="center">Currently studying</h3>
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin-bottom: 50px;">
     <img align="center" alt="Typescript-icon" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
      <img align="center" alt="NextJS-icon" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
   </div>
   <br>
-<h2 align="center">Contacts</h2>
+<h3 align="center">Contacts</h3>
  <div>
  <p>
 <a href="https://www.linkedin.com/in/sergei-brykalov-63a521234/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn-icon"></a>
