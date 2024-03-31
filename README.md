@@ -1,7 +1,8 @@
+
 <br>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FCBE5A&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+Name+Is+Sergei!;And+I'm+Frontend+Developer.;)](https://git.io/typing-svg)
+<h1 align="center" > Hello! My Name Is Sergei Brykalov. And I Am A Frontend Developer </h1>
 <br>
 
 <br>
