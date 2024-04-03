@@ -1,7 +1,7 @@
 
-<h2 align="center"> Hi! 👋  I'm Sergei Brykalov.</h3>
+<h2 align="center"> Hi! 👋  I'm Sergei Brykalov</h3>
 
-<p align="center">I'm Frontend Developer And I'm Passionate About Building Beautiful And Functional User Interfaces. </p>
+<p align="center">I'm Frontend Developer And I'm Passionate About Building Beautiful And Functional User Interfaces </p>
 
 <br>
 
