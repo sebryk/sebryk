@@ -26,7 +26,6 @@
   <h3 align="center">Currently studying</h3>
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin-bottom: 50px;">
     <img align="center" alt="React Native-icon" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-    <img align="center" alt="Vue-icon" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
   </div>
   <br>
 <h3 align="center">Contacts</h3>
