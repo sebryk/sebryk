@@ -25,8 +25,8 @@
       <img align="center" alt="Mobx-icon" src="https://img.shields.io/badge/Mobx-D66A30?style=for-the-badge&logo=mobx&logoColor=ffffff">
     <p>
       <img align="center" alt="Webpack-Icon" src="https://img.shields.io/badge/webpack-2E3A41?style=for-the-badge&logo=webpack&logoColor=9DD5F5">
-      <img align="center" alt="Gulp-Icon" src="https://img.shields.io/badge/gulp-C0504C?style=for-the-badge&logo=gulp&logoColor=white">
       <img align="center" alt="Vite-Icon" src="https://img.shields.io/badge/Vite-A055F5?style=for-the-badge&logo=vite&logoColor=F3AF3E">
+      <img align="center" alt="Gulp-Icon" src="https://img.shields.io/badge/gulp-C0504C?style=for-the-badge&logo=gulp&logoColor=white">
   </div>
   <br>
   <h3 align="center">Currently studying</h3>
