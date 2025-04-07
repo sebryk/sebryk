@@ -34,15 +34,5 @@
     <img align="center" alt="React Native-icon" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   </div>
   <br>
-<h3 align="center">Contacts</h3>
- <div>
- <p>
-<a href="https://www.linkedin.com/in/sergei-brykalov-63a521234/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn-icon"></a>
-<a href="https://t.me/sebryk" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn-icon"></a>
-<a href="https://wa.me/89811930733" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="LinkedIn-icon"></a>
-</p>
-<a href="https://www.brykalov.dev" target="_blank"><img src="https://img.shields.io/badge/website-FCBE5A?style=for-the-badge&logo=About.me&logoColor=black" alt="Site-icon"></a>
-<a href="mailto:info@brykalov.dev" target="_blank"><img src="https://img.shields.io/badge/mail-C0504C?style=for-the-badge&logo=About.me&logoColor=white" alt="Mail-icon"></a>
-</div>
 </div>
 <br> 
