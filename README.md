@@ -28,11 +28,5 @@
       <img align="center" alt="Vite-Icon" src="https://img.shields.io/badge/Vite-A055F5?style=for-the-badge&logo=vite&logoColor=F3AF3E">
       <img align="center" alt="Gulp-Icon" src="https://img.shields.io/badge/gulp-C0504C?style=for-the-badge&logo=gulp&logoColor=white">
   </div>
-  <br>
-  <h3 align="center">Currently studying</h3>
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin-bottom: 50px;">
-    <img align="center" alt="React Native-icon" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  </div>
-  <br>
 </div>
 <br> 
